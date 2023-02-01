@@ -59,5 +59,7 @@ public class IteratorTests {
 
             index++;
         }
+
+        assertEquals(4, index);
     }
 }
