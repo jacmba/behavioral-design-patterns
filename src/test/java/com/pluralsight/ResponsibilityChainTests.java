@@ -1,4 +1,4 @@
-package com.pluralsight.chain;
+package com.pluralsight;
 
 import com.pluralsight.chain.handler.*;
 import com.pluralsight.chain.request.Request;

@@ -1,4 +1,4 @@
-package com.pluralsight.chain;
+package com.pluralsight;
 
 import com.pluralsight.command.*;
 import org.junit.Test;
